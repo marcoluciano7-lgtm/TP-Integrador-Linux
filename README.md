@@ -2,8 +2,13 @@
 Computacion Aplicada-Universidad de Palermo
 
 Integrantes:
+
 Marianella Gotig
+
 Marco Larocca
+
 Alejo Girardi
+
 Claudio Fernando Lepe
+
 Marco Braithwaite Paredes
