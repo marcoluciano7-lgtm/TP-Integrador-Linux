@@ -4,7 +4,6 @@ Computacion Aplicada-Universidad de Palermo
 Integrantes:
 Marianella Gotig
 Marco Larocca
-Alejo G
-Fer
-Integrante 5
-
+Alejo Girardi
+Claudio Fernando Lepe
+Marco Braithwaite Paredes
